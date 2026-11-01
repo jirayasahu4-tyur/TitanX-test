@@ -88,7 +88,7 @@ python --version
 
 ```bash
 git clone https://github.com/jirayasahu4-tyur/TitanX-test.git
-cd TitanX-test.git
+cd TitanX-test
 ```
 
 **Install dependencies:**
