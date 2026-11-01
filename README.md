@@ -104,7 +104,7 @@ python -m pip install cryptography curl_cffi eth-account
 
 ### 1. Private Key (.env)
 
-Rename `.env.example` to `.env` and fill in your wallet private key:
+
 
 ```env
 PRIVATEKEY_1=0x
