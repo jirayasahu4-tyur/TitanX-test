@@ -87,8 +87,8 @@ python --version
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Yuurisan-N1/TitanX-Testnet.git
-cd TitanX-Testnet
+git clone https://github.com/jirayasahu4-tyur/TitanX-test.git
+cd TitanX-test.git
 ```
 
 **Install dependencies:**
@@ -107,7 +107,7 @@ python -m pip install cryptography curl_cffi eth-account
 Rename `.env.example` to `.env` and fill in your wallet private key:
 
 ```env
-PRIVATEKEY=0x
+PRIVATEKEY_1=0x
 ```
 
 The bot signs in with a wallet signature and never needs a browser session or any initData, so the key must belong to the same wallet you use on the site.
